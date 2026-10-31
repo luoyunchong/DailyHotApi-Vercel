@@ -1,3 +1,5 @@
+[English](README.en.md) | **简体中文**
+
 <div align="center">
 <img alt="logo" height="120" src="./public/favicon.png" width="120"/>
 <h2>今日热榜</h2>
